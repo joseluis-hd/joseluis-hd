@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @joseluis-hd
-- 👀 I’m interested in programming and computer science
-- 💻 I’m currently learning Computer Engineering at CUCEI.
+# Hi there 👋, I'm Luis Haro 
+- I'm a Computer Engineering 💻 student at University of Guadalajara and this is my personal profile where I share my projects and learnings.
 
 ## 🔗 Links
 [![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JOSELUISHARODIAZ)
