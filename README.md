@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Luis Haro 
+# Hi there 👋, I'm José Luis Haro 
 - 💻 I'm a Computer Engineering student at University of Guadalajara and this is my personal profile where I share my projects and learnings.
 
 ## 🔗 Links
